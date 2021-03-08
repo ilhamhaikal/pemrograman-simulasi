@@ -1,5 +1,5 @@
-print("Nama : Febi Syarif P")
-print("NRP : 152017086")
+print("Nama : ilham muhammad haikal")
+print("NRP : 152017106")
 print("Montecarlo")
 
 import pandas as pd
